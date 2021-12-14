@@ -1,1 +1,1 @@
-start code .
+node ./index.js
